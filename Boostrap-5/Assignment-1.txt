@@ -1,0 +1,4 @@
+Arrange any theme images in Bootstrap Grid
+From medium screen sizes they should appear in one row
+but below medium they should be stacked
+use Bootstrap resposive grid classes
